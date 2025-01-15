@@ -1,2 +1,1 @@
-# passqoed_manager
-Mini project(Us states Game).
+# this is a mini training project 
